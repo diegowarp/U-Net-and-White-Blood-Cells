@@ -14,6 +14,8 @@ Using the PyTorch language, the architecture of the original U-Net was developed
 - 242 images of monocyte cells;
 - 242 images of neutrophil cells.
 
+You can download the dataset from [Raabin WBC Data ](http://dl.raabindata.com/WBC/nucleus_cytoplasm_GT/).
+
 Dataset split: 85% for training and 15% for validation (there was no test).
 
 The training environment was on Google Colab, using the free resources available and the possibility of allocation in the GPU.
